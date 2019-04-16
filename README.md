@@ -1,2 +1,2 @@
 # NBA-time-schedule
-CS 125v final project
+CS 125 final project
